@@ -1,5 +1,3 @@
-# Hyperautomation
-
 ## Project Objectives
 
 ### Objective 1
