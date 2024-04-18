@@ -29,25 +29,25 @@ Transformation mapping: <br> <br>
 
 ServiceNow and Zapier connection: <br> <br>
 
-Connection setup between zapier and servicenow: <br>
+Connection setup between zapier and servicenow: <br> <br>
 ![connection](https://github.com/bayyangjie/Hyperautomation/assets/153354426/02020b7f-0627-40f7-b61b-8256ec02f612) <br> <br>
 
-Loading the servicenow table in zapier: <br>
+Loading the servicenow table in zapier: <br> <br>
 ![loadtblzap](https://github.com/bayyangjie/Hyperautomation/assets/153354426/db0093fa-7125-49d3-9f0c-534115d749f9)
 
-A new test record that was created in the Servicenow production table 'shipmentstbl' shows up in the test step in zapier: <br>
-![newrecordzap](https://github.com/bayyangjie/Hyperautomation/assets/153354426/bbe121cf-b791-4bda-9fc2-f4b0b53e99c7) <br>
+A new test record that was created in the Servicenow production table 'shipmentstbl' shows up in the test step in zapier: <br> <br>
+![newrecordzap](https://github.com/bayyangjie/Hyperautomation/assets/153354426/bbe121cf-b791-4bda-9fc2-f4b0b53e99c7) <br> <br>
 
-Entering email addresses that will be receiving the ZAP & giving a subject header for the ZAP: <br>
-![setuptestzap](https://github.com/bayyangjie/Hyperautomation/assets/153354426/ed5a3b02-8428-4cdd-aa39-ff080d6893ca) <br>
+Entering email addresses that will be receiving the ZAP & giving a subject header for the ZAP: <br> <br>
+![setuptestzap](https://github.com/bayyangjie/Hyperautomation/assets/153354426/ed5a3b02-8428-4cdd-aa39-ff080d6893ca) <br> <br>
 
-Setting the body format and create sample email format to test the ZAP email trigger: <br>
-![notifyformat](https://github.com/bayyangjie/Hyperautomation/assets/153354426/7a48f2bf-f451-433c-8caf-a9ff3d5ed45e) <br>
+Setting the body format and create sample email format to test the ZAP email trigger: <br> <br>
+![notifyformat](https://github.com/bayyangjie/Hyperautomation/assets/153354426/7a48f2bf-f451-433c-8caf-a9ff3d5ed45e) <br> <br>
 
-Sent the test step to the email address: <br>
-![sendtestzap](https://github.com/bayyangjie/Hyperautomation/assets/153354426/d4c5cdbe-0c13-4efc-a3d5-f30f60081fb9) <br>
+Sent the test step to the email address: <br> <br>
+![sendtestzap](https://github.com/bayyangjie/Hyperautomation/assets/153354426/d4c5cdbe-0c13-4efc-a3d5-f30f60081fb9) <br> <br>
 
-Receive notification email about a new record created in servicenow production table 'shipmentstbl': <br>
+Received a notification email about a new record created in servicenow production table 'shipmentstbl': <br> <br>
 ![receivenotfiy](https://github.com/bayyangjie/Hyperautomation/assets/153354426/778e0e57-22e8-41cc-8f15-ee800e577ee1) <br>
 
 
