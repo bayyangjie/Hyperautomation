@@ -18,7 +18,7 @@
 - Set up a connection between ServiceNow and Zapier platform which creates a further linkage to Outlook email which is responsible for receiving the notification triggering.
 - Employed ASANA to create a project management schedule from initialization to development and finally to the deployment phase
 
-Imported table in ServiceNow:
+Imported table in ServiceNow: <br> <br>
 ![Image 1](https://github.com/bayyangjie/Hyperautomation/blob/main/Visuals/tabletransform.png?raw=true) <br> <br>
 
 ServiceNow and Zapier connection:
