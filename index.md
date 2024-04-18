@@ -27,7 +27,7 @@ Created staging table ‘shipments1stag’ to store the dataset before importing
 Transformation mapping: <br> <br>
 ![Image 8](https://github.com/bayyangjie/Hyperautomation/blob/main/Visuals/transform.png?raw=true) <br> <br>
 
-ServiceNow and Zapier connection: <br> <br>
+##### ServiceNow and Zapier connection: <br> <br>
 
 Connection setup between zapier and servicenow: <br> <br>
 ![connection](https://github.com/bayyangjie/Hyperautomation/assets/153354426/02020b7f-0627-40f7-b61b-8256ec02f612) <br> <br>
